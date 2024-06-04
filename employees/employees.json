@@ -1,0 +1,62 @@
+[
+    {
+      "employeeID": 1,
+      "name": "Alex Green",
+      "salary": 62000,
+      "department": "Sales"
+    },
+    {
+      "employeeID": 2,
+      "name": "Olivia White",
+      "salary": 63000,
+      "department": "Customer Support"
+    },
+    {
+      "employeeID": 3,
+      "name": "Liam Black",
+      "salary": 58000,
+      "department": "Marketing"
+    },
+    {
+      "employeeID": 4,
+      "name": "Sophia Blue",
+      "salary": 72000,
+      "department": "Finance"
+    },
+    {
+      "employeeID": 5,
+      "name": "Noah Red",
+      "salary": 49000,
+      "department": "Operations"
+    },
+    {
+      "employeeID": 6,
+      "name": "Mason Yellow",
+      "salary": 66000,
+      "department": "IT"
+    },
+    {
+      "employeeID": 7,
+      "name": "Amelia Pink",
+      "salary": 53000,
+      "department": "HR"
+    },
+    {
+      "employeeID": 8,
+      "name": "Ethan Orange",
+      "salary": 76000,
+      "department": "Marketing"
+    },
+    {
+      "employeeID": 9,
+      "name": "Isabella Purple",
+      "salary": 69000,
+      "department": "Finance"
+    },
+    {
+      "employeeID": 10,
+      "name": "Lucas Gray",
+      "salary": 51000,
+      "department": "Operations"
+    }
+  ]
